@@ -40,11 +40,10 @@ What's easiest for keeping your personal information out of the hands of those w
 ### Shout Outs ###
 * [Edward Snowden](http://en.wikipedia.org/wiki/Edward_Snowden)
 * [United States Constitution](http://en.wikipedia.org/wiki/United_States_Constitution) 
-* [NPR](http://www.npr.org/blogs/itsallpolitics/2013/06/12/191046130/nsa-surveillance-fails-to-rile-congress)
+* [FAIL, NPR](http://www.npr.org/blogs/itsallpolitics/2013/06/12/191046130/nsa-surveillance-fails-to-rile-congress)
 * [backbone.js](http://backbonejs.org/)
-* [Taco Bell](http://www.tacobell.com/)
-
 
 ### Disclaimer ###
-No Surveillance App Data Polluter is brought to you by No Surveillance AppsTM. USING THIS TOOL MAY RESULT IN ADVERSE AND PERMANANT CONSEQUENCES. The authors and contributors to this coee assume no responsibility or liability for the tool/code/service, what the code/service does to your computer, or anyone who uses it. We're all responsible for our own actions and inactions ;)
+Data Polluter Pro is brought to you by No Surveillance AppsTM. USING THIS TOOL MAY RESULT IN ADVERSE AND PERMANANT CONSEQUENCES. 
+The authors and contributors to this code assume no responsibility or liability for this tool/code/service, what the code/service does to your computer, or anyone who uses it. We're all responsible for our own actions and inactions ;)
 
