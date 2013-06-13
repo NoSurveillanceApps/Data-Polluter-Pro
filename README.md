@@ -10,7 +10,8 @@ What's easiest for keeping your personal information out of the hands of those w
 ### Features ###
 * Automatically visits websites using your internet browser
 * Coming soon! Data Polluter mobile
-* Coming soon! Automatically performs keyword searches and clicks through to random results pages (and sub pages)
+* Coming soon! Automatically perform provided/user editable keyword searches and click through to result pages (and sub pages)
+* Coming soon? Activist mode: Opt-in to visit resources like major and minor political parties, news sources critical of current United States policies and leadership, enter your own "red flag" keywords to voluntarily "flag" yourself and in aggregate dilute surveillance technology abilities
 * Server-free implementation. All you need is an internet connection and a web browser
 * Fun to watch! But feel to open another tab
 
@@ -25,7 +26,8 @@ What's easiest for keeping your personal information out of the hands of those w
 
 ### Data Pollution Sources ###
 * Random web sites pulled from resources like the [Alexa Top 500](http://www.alexa.com/topsites)
-* Major and minor U.S. political parties, and related content
+* 
+* Chinese websites?
 * Your suggestions here...
 
 ### FAQS ###
